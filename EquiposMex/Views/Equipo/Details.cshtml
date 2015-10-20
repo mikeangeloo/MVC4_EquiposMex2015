@@ -1,0 +1,36 @@
+﻿@model EquiposMex.Models.EQUIPO
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<fieldset>
+    <legend>EQUIPO</legend>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.ID_EQUIPO)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.ID_EQUIPO)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.NOMBREEQUIPO)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.NOMBREEQUIPO)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.COLOR)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.COLOR)
+    </div>
+</fieldset>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { /* id=Model.PrimaryKey */ }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

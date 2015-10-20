@@ -1,0 +1,46 @@
+﻿@model IEnumerable<EquiposMex.Models.EQUIPO>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>LISTA DE EQUIPOS</h2>
+
+<p>
+    @Html.ActionLink("Nuevo Equipo", "Create")
+</p>
+<table>
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.ID_EQUIPO)
+        </th>
+        <th>
+            NOMBRE EQUIPO
+            @*@Html.DisplayNameFor(model => model.NOMBREEQUIPO)*@
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.COLOR)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.ID_EQUIPO)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.NOMBREEQUIPO)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.COLOR)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id = item.ID_EQUIPO }) |
+            @Html.ActionLink("Details", "Details", new { id = item.ID_EQUIPO }) |
+            @Html.ActionLink("Delete", "Delete", new { id = item.ID_EQUIPO })
+        </td>
+    </tr>
+}
+
+</table>

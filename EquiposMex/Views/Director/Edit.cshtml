@@ -1,0 +1,68 @@
+﻿@model EquiposMex.Models.DIRECTOR
+
+@{
+    ViewBag.Title = "Edit";
+}
+
+<h2>Edit</h2>
+
+@using (Html.BeginForm()) {
+    @Html.AntiForgeryToken()
+    @Html.ValidationSummary(true)
+
+    <fieldset>
+        <legend>DIRECTOR</legend>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.ID_DIRECTOR)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.ID_DIRECTOR)
+            @Html.ValidationMessageFor(model => model.ID_DIRECTOR)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.ID_EQUIPO, "EQUIPO")
+        </div>
+        <div class="editor-field">
+            @Html.DropDownList("ID_EQUIPO", String.Empty)
+            @Html.ValidationMessageFor(model => model.ID_EQUIPO)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.NOMBREDIRECTOR)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.NOMBREDIRECTOR)
+            @Html.ValidationMessageFor(model => model.NOMBREDIRECTOR)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.APELLIDOSDIRECTOR)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.APELLIDOSDIRECTOR)
+            @Html.ValidationMessageFor(model => model.APELLIDOSDIRECTOR)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.TELEFONODIRECTOR)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.TELEFONODIRECTOR)
+            @Html.ValidationMessageFor(model => model.TELEFONODIRECTOR)
+        </div>
+
+        <p>
+            <input type="submit" value="Save" />
+        </p>
+    </fieldset>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/jqueryval")
+}

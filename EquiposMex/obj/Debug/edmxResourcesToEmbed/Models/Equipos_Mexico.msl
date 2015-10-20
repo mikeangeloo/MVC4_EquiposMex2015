@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Equipos_MexicoModelStoreContainer" CdmEntityContainer="Equipos_MexicoEntities">
+    <EntitySetMapping Name="DIRECTOR">
+      <EntityTypeMapping TypeName="Equipos_MexicoModel.DIRECTOR">
+        <MappingFragment StoreEntitySet="DIRECTOR">
+          <ScalarProperty Name="ID_DIRECTOR" ColumnName="ID_DIRECTOR" />
+          <ScalarProperty Name="ID_EQUIPO" ColumnName="ID_EQUIPO" />
+          <ScalarProperty Name="NOMBREDIRECTOR" ColumnName="NOMBREDIRECTOR" />
+          <ScalarProperty Name="APELLIDOSDIRECTOR" ColumnName="APELLIDOSDIRECTOR" />
+          <ScalarProperty Name="TELEFONODIRECTOR" ColumnName="TELEFONODIRECTOR" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="EQUIPO">
+      <EntityTypeMapping TypeName="Equipos_MexicoModel.EQUIPO">
+        <MappingFragment StoreEntitySet="EQUIPO">
+          <ScalarProperty Name="ID_EQUIPO" ColumnName="ID_EQUIPO" />
+          <ScalarProperty Name="NOMBREEQUIPO" ColumnName="NOMBREEQUIPO" />
+          <ScalarProperty Name="COLOR" ColumnName="COLOR" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="JUGADOR">
+      <EntityTypeMapping TypeName="Equipos_MexicoModel.JUGADOR">
+        <MappingFragment StoreEntitySet="JUGADOR">
+          <ScalarProperty Name="ID_JUGADOR" ColumnName="ID_JUGADOR" />
+          <ScalarProperty Name="ID_PADRE" ColumnName="ID_PADRE" />
+          <ScalarProperty Name="ID_EQUIPO" ColumnName="ID_EQUIPO" />
+          <ScalarProperty Name="NOMBREJUGADOR" ColumnName="NOMBREJUGADOR" />
+          <ScalarProperty Name="APELLIDOSJUGADOR" ColumnName="APELLIDOSJUGADOR" />
+          <ScalarProperty Name="EDAD" ColumnName="EDAD" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="PADRE">
+      <EntityTypeMapping TypeName="Equipos_MexicoModel.PADRE">
+        <MappingFragment StoreEntitySet="PADRE">
+          <ScalarProperty Name="ID_PADRE" ColumnName="ID_PADRE" />
+          <ScalarProperty Name="APELLIDOSPADRE" ColumnName="APELLIDOSPADRE" />
+          <ScalarProperty Name="NOMBREPADRE" ColumnName="NOMBREPADRE" />
+          <ScalarProperty Name="DIRECCION" ColumnName="DIRECCION" />
+          <ScalarProperty Name="TELEFONOPADRE" ColumnName="TELEFONOPADRE" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="sysdiagrams">
+      <EntityTypeMapping TypeName="Equipos_MexicoModel.sysdiagrams">
+        <MappingFragment StoreEntitySet="sysdiagrams">
+          <ScalarProperty Name="name" ColumnName="name" />
+          <ScalarProperty Name="principal_id" ColumnName="principal_id" />
+          <ScalarProperty Name="diagram_id" ColumnName="diagram_id" />
+          <ScalarProperty Name="version" ColumnName="version" />
+          <ScalarProperty Name="definition" ColumnName="definition" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

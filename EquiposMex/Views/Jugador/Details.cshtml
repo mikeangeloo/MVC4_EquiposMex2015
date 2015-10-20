@@ -1,0 +1,57 @@
+﻿@model EquiposMex.Models.JUGADOR
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<fieldset>
+    <legend>JUGADOR</legend>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.ID_JUGADOR)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.ID_JUGADOR)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.PADRE.APELLIDOSPADRE)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.PADRE.APELLIDOSPADRE)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.EQUIPO.NOMBREEQUIPO)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.EQUIPO.NOMBREEQUIPO)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.NOMBREJUGADOR)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.NOMBREJUGADOR)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.APELLIDOSJUGADOR)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.APELLIDOSJUGADOR)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.EDAD)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.EDAD)
+    </div>
+</fieldset>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { /* id=Model.PrimaryKey */ }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

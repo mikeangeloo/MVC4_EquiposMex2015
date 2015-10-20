@@ -1,0 +1,50 @@
+﻿@model EquiposMex.Models.DIRECTOR
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<fieldset>
+    <legend>DIRECTOR</legend>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.ID_DIRECTOR)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.ID_DIRECTOR)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.EQUIPO.NOMBREEQUIPO)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.EQUIPO.NOMBREEQUIPO)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.NOMBREDIRECTOR)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.NOMBREDIRECTOR)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.APELLIDOSDIRECTOR)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.APELLIDOSDIRECTOR)
+    </div>
+
+    <div class="display-label">
+         @Html.DisplayNameFor(model => model.TELEFONODIRECTOR)
+    </div>
+    <div class="display-field">
+        @Html.DisplayFor(model => model.TELEFONODIRECTOR)
+    </div>
+</fieldset>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { /* id=Model.PrimaryKey */ }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

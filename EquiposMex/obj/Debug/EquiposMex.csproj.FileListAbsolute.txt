@@ -1,0 +1,294 @@
+c:\users\luisdaniel\documents\visual studio 2013\Projects\EquiposMex\EquiposMex\bin\EquiposMex.dll.config
+c:\users\luisdaniel\documents\visual studio 2013\Projects\EquiposMex\EquiposMex\bin\EquiposMex.dll
+c:\users\luisdaniel\documents\visual studio 2013\Projects\EquiposMex\EquiposMex\bin\EquiposMex.pdb
+c:\users\luisdaniel\documents\visual studio 2013\Projects\EquiposMex\EquiposMex\bin\Antlr3.Runtime.dll
+c:\users\luisdaniel\documents\visual studio 2013\Projects\EquiposMex\EquiposMex\bin\DotNetOpenAuth.AspNet.dll
+c:\users\luisdaniel\documents\visual studio 2013\Projects\EquiposMex\EquiposMex\bin\DotNetOpenAuth.Core.dll
+c:\users\luisdaniel\documents\visual studio 2013\Projects\EquiposMex\EquiposMex\bin\DotNetOpenAuth.OAuth.Consumer.dll
+c:\users\luisdaniel\documents\visual studio 2013\Projects\EquiposMex\EquiposMex\bin\DotNetOpenAuth.OAuth.dll
+c:\users\luisdaniel\documents\visual studio 2013\Projects\EquiposMex\EquiposMex\bin\DotNetOpenAuth.OpenId.dll
+c:\users\luisdaniel\documents\visual studio 2013\Projects\EquiposMex\EquiposMex\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+c:\users\luisdaniel\documents\visual studio 2013\Projects\EquiposMex\EquiposMex\bin\EntityFramework.dll
+c:\users\luisdaniel\documents\visual studio 2013\Projects\EquiposMex\EquiposMex\bin\Microsoft.Data.Edm.dll
+c:\users\luisdaniel\documents\visual studio 2013\Projects\EquiposMex\EquiposMex\bin\Microsoft.Data.OData.dll
+c:\users\luisdaniel\documents\visual studio 2013\Projects\EquiposMex\EquiposMex\bin\Microsoft.Web.Infrastructure.dll
+c:\users\luisdaniel\documents\visual studio 2013\Projects\EquiposMex\EquiposMex\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+c:\users\luisdaniel\documents\visual studio 2013\Projects\EquiposMex\EquiposMex\bin\Microsoft.Web.WebPages.OAuth.dll
+c:\users\luisdaniel\documents\visual studio 2013\Projects\EquiposMex\EquiposMex\bin\Newtonsoft.Json.dll
+c:\users\luisdaniel\documents\visual studio 2013\Projects\EquiposMex\EquiposMex\bin\System.Spatial.dll
+c:\users\luisdaniel\documents\visual studio 2013\Projects\EquiposMex\EquiposMex\bin\System.Web.Helpers.dll
+c:\users\luisdaniel\documents\visual studio 2013\Projects\EquiposMex\EquiposMex\bin\System.Web.Http.OData.dll
+c:\users\luisdaniel\documents\visual studio 2013\Projects\EquiposMex\EquiposMex\bin\System.Web.Mvc.dll
+c:\users\luisdaniel\documents\visual studio 2013\Projects\EquiposMex\EquiposMex\bin\System.Web.Optimization.dll
+c:\users\luisdaniel\documents\visual studio 2013\Projects\EquiposMex\EquiposMex\bin\System.Web.Razor.dll
+c:\users\luisdaniel\documents\visual studio 2013\Projects\EquiposMex\EquiposMex\bin\System.Web.WebPages.Deployment.dll
+c:\users\luisdaniel\documents\visual studio 2013\Projects\EquiposMex\EquiposMex\bin\System.Web.WebPages.dll
+c:\users\luisdaniel\documents\visual studio 2013\Projects\EquiposMex\EquiposMex\bin\System.Web.WebPages.Razor.dll
+c:\users\luisdaniel\documents\visual studio 2013\Projects\EquiposMex\EquiposMex\bin\WebGrease.dll
+c:\users\luisdaniel\documents\visual studio 2013\Projects\EquiposMex\EquiposMex\bin\WebMatrix.Data.dll
+c:\users\luisdaniel\documents\visual studio 2013\Projects\EquiposMex\EquiposMex\bin\WebMatrix.WebData.dll
+c:\users\luisdaniel\documents\visual studio 2013\Projects\EquiposMex\EquiposMex\bin\EntityFramework.xml
+c:\users\luisdaniel\documents\visual studio 2013\Projects\EquiposMex\EquiposMex\bin\Newtonsoft.Json.xml
+c:\users\luisdaniel\documents\visual studio 2013\Projects\EquiposMex\EquiposMex\bin\System.Web.Helpers.xml
+c:\users\luisdaniel\documents\visual studio 2013\Projects\EquiposMex\EquiposMex\bin\System.Web.Mvc.xml
+c:\users\luisdaniel\documents\visual studio 2013\Projects\EquiposMex\EquiposMex\bin\System.Web.Razor.xml
+c:\users\luisdaniel\documents\visual studio 2013\Projects\EquiposMex\EquiposMex\bin\System.Web.WebPages.xml
+c:\users\luisdaniel\documents\visual studio 2013\Projects\EquiposMex\EquiposMex\bin\System.Web.WebPages.Deployment.xml
+c:\users\luisdaniel\documents\visual studio 2013\Projects\EquiposMex\EquiposMex\bin\System.Web.WebPages.Razor.xml
+c:\users\luisdaniel\documents\visual studio 2013\Projects\EquiposMex\EquiposMex\bin\WebMatrix.Data.xml
+c:\users\luisdaniel\documents\visual studio 2013\Projects\EquiposMex\EquiposMex\bin\Microsoft.Web.WebPages.OAuth.xml
+c:\users\luisdaniel\documents\visual studio 2013\Projects\EquiposMex\EquiposMex\bin\WebMatrix.WebData.xml
+c:\users\luisdaniel\documents\visual studio 2013\Projects\EquiposMex\EquiposMex\bin\DotNetOpenAuth.AspNet.xml
+c:\users\luisdaniel\documents\visual studio 2013\Projects\EquiposMex\EquiposMex\bin\DotNetOpenAuth.Core.xml
+c:\users\luisdaniel\documents\visual studio 2013\Projects\EquiposMex\EquiposMex\bin\DotNetOpenAuth.OAuth.Consumer.xml
+c:\users\luisdaniel\documents\visual studio 2013\Projects\EquiposMex\EquiposMex\bin\DotNetOpenAuth.OAuth.xml
+c:\users\luisdaniel\documents\visual studio 2013\Projects\EquiposMex\EquiposMex\bin\DotNetOpenAuth.OpenId.xml
+c:\users\luisdaniel\documents\visual studio 2013\Projects\EquiposMex\EquiposMex\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+c:\users\luisdaniel\documents\visual studio 2013\Projects\EquiposMex\EquiposMex\bin\System.Web.Http.OData.xml
+c:\users\luisdaniel\documents\visual studio 2013\Projects\EquiposMex\EquiposMex\bin\Microsoft.Data.Edm.xml
+c:\users\luisdaniel\documents\visual studio 2013\Projects\EquiposMex\EquiposMex\bin\Microsoft.Data.OData.xml
+c:\users\luisdaniel\documents\visual studio 2013\Projects\EquiposMex\EquiposMex\bin\System.Spatial.xml
+c:\users\luisdaniel\documents\visual studio 2013\Projects\EquiposMex\EquiposMex\bin\es\EntityFramework.resources.dll
+c:\users\luisdaniel\documents\visual studio 2013\Projects\EquiposMex\EquiposMex\bin\es\System.Web.Helpers.resources.dll
+c:\users\luisdaniel\documents\visual studio 2013\Projects\EquiposMex\EquiposMex\bin\es\System.Web.Mvc.resources.dll
+c:\users\luisdaniel\documents\visual studio 2013\Projects\EquiposMex\EquiposMex\bin\es\System.Web.Optimization.resources.dll
+c:\users\luisdaniel\documents\visual studio 2013\Projects\EquiposMex\EquiposMex\bin\es\System.Web.Razor.resources.dll
+c:\users\luisdaniel\documents\visual studio 2013\Projects\EquiposMex\EquiposMex\bin\es\System.Web.WebPages.resources.dll
+c:\users\luisdaniel\documents\visual studio 2013\Projects\EquiposMex\EquiposMex\bin\es\System.Web.WebPages.Deployment.resources.dll
+c:\users\luisdaniel\documents\visual studio 2013\Projects\EquiposMex\EquiposMex\bin\es\System.Web.WebPages.Razor.resources.dll
+c:\users\luisdaniel\documents\visual studio 2013\Projects\EquiposMex\EquiposMex\bin\es\WebMatrix.Data.resources.dll
+c:\users\luisdaniel\documents\visual studio 2013\Projects\EquiposMex\EquiposMex\bin\es\Microsoft.Web.WebPages.OAuth.resources.dll
+c:\users\luisdaniel\documents\visual studio 2013\Projects\EquiposMex\EquiposMex\bin\es\WebMatrix.WebData.resources.dll
+c:\users\luisdaniel\documents\visual studio 2013\Projects\EquiposMex\EquiposMex\bin\es\System.Web.Http.OData.resources.dll
+c:\users\luisdaniel\documents\visual studio 2013\Projects\EquiposMex\EquiposMex\bin\de\Microsoft.Data.Edm.resources.dll
+c:\users\luisdaniel\documents\visual studio 2013\Projects\EquiposMex\EquiposMex\bin\es\Microsoft.Data.Edm.resources.dll
+c:\users\luisdaniel\documents\visual studio 2013\Projects\EquiposMex\EquiposMex\bin\fr\Microsoft.Data.Edm.resources.dll
+c:\users\luisdaniel\documents\visual studio 2013\Projects\EquiposMex\EquiposMex\bin\it\Microsoft.Data.Edm.resources.dll
+c:\users\luisdaniel\documents\visual studio 2013\Projects\EquiposMex\EquiposMex\bin\ja\Microsoft.Data.Edm.resources.dll
+c:\users\luisdaniel\documents\visual studio 2013\Projects\EquiposMex\EquiposMex\bin\ko\Microsoft.Data.Edm.resources.dll
+c:\users\luisdaniel\documents\visual studio 2013\Projects\EquiposMex\EquiposMex\bin\ru\Microsoft.Data.Edm.resources.dll
+c:\users\luisdaniel\documents\visual studio 2013\Projects\EquiposMex\EquiposMex\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+c:\users\luisdaniel\documents\visual studio 2013\Projects\EquiposMex\EquiposMex\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+c:\users\luisdaniel\documents\visual studio 2013\Projects\EquiposMex\EquiposMex\bin\de\Microsoft.Data.OData.resources.dll
+c:\users\luisdaniel\documents\visual studio 2013\Projects\EquiposMex\EquiposMex\bin\es\Microsoft.Data.OData.resources.dll
+c:\users\luisdaniel\documents\visual studio 2013\Projects\EquiposMex\EquiposMex\bin\fr\Microsoft.Data.OData.resources.dll
+c:\users\luisdaniel\documents\visual studio 2013\Projects\EquiposMex\EquiposMex\bin\it\Microsoft.Data.OData.resources.dll
+c:\users\luisdaniel\documents\visual studio 2013\Projects\EquiposMex\EquiposMex\bin\ja\Microsoft.Data.OData.resources.dll
+c:\users\luisdaniel\documents\visual studio 2013\Projects\EquiposMex\EquiposMex\bin\ko\Microsoft.Data.OData.resources.dll
+c:\users\luisdaniel\documents\visual studio 2013\Projects\EquiposMex\EquiposMex\bin\ru\Microsoft.Data.OData.resources.dll
+c:\users\luisdaniel\documents\visual studio 2013\Projects\EquiposMex\EquiposMex\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+c:\users\luisdaniel\documents\visual studio 2013\Projects\EquiposMex\EquiposMex\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+c:\users\luisdaniel\documents\visual studio 2013\Projects\EquiposMex\EquiposMex\bin\de\System.Spatial.resources.dll
+c:\users\luisdaniel\documents\visual studio 2013\Projects\EquiposMex\EquiposMex\bin\es\System.Spatial.resources.dll
+c:\users\luisdaniel\documents\visual studio 2013\Projects\EquiposMex\EquiposMex\bin\fr\System.Spatial.resources.dll
+c:\users\luisdaniel\documents\visual studio 2013\Projects\EquiposMex\EquiposMex\bin\it\System.Spatial.resources.dll
+c:\users\luisdaniel\documents\visual studio 2013\Projects\EquiposMex\EquiposMex\bin\ja\System.Spatial.resources.dll
+c:\users\luisdaniel\documents\visual studio 2013\Projects\EquiposMex\EquiposMex\bin\ko\System.Spatial.resources.dll
+c:\users\luisdaniel\documents\visual studio 2013\Projects\EquiposMex\EquiposMex\bin\ru\System.Spatial.resources.dll
+c:\users\luisdaniel\documents\visual studio 2013\Projects\EquiposMex\EquiposMex\bin\zh-Hans\System.Spatial.resources.dll
+c:\users\luisdaniel\documents\visual studio 2013\Projects\EquiposMex\EquiposMex\bin\zh-Hant\System.Spatial.resources.dll
+c:\users\luisdaniel\documents\visual studio 2013\Projects\EquiposMex\EquiposMex\obj\Debug\EquiposMex.csprojResolveAssemblyReference.cache
+c:\users\luisdaniel\documents\visual studio 2013\Projects\EquiposMex\EquiposMex\obj\Debug\EquiposMex.dll
+c:\users\luisdaniel\documents\visual studio 2013\Projects\EquiposMex\EquiposMex\obj\Debug\EquiposMex.pdb
+C:\Users\Mike\Desktop\EquiposMex\EquiposMex\bin\EquiposMex.dll.config
+C:\Users\Mike\Desktop\EquiposMex\EquiposMex\bin\EquiposMex.dll
+C:\Users\Mike\Desktop\EquiposMex\EquiposMex\bin\EquiposMex.pdb
+C:\Users\Mike\Desktop\EquiposMex\EquiposMex\bin\Antlr3.Runtime.dll
+C:\Users\Mike\Desktop\EquiposMex\EquiposMex\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Mike\Desktop\EquiposMex\EquiposMex\bin\DotNetOpenAuth.Core.dll
+C:\Users\Mike\Desktop\EquiposMex\EquiposMex\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Mike\Desktop\EquiposMex\EquiposMex\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Mike\Desktop\EquiposMex\EquiposMex\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Mike\Desktop\EquiposMex\EquiposMex\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Mike\Desktop\EquiposMex\EquiposMex\bin\EntityFramework.dll
+C:\Users\Mike\Desktop\EquiposMex\EquiposMex\bin\Microsoft.Data.Edm.dll
+C:\Users\Mike\Desktop\EquiposMex\EquiposMex\bin\Microsoft.Data.OData.dll
+C:\Users\Mike\Desktop\EquiposMex\EquiposMex\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mike\Desktop\EquiposMex\EquiposMex\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Mike\Desktop\EquiposMex\EquiposMex\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Mike\Desktop\EquiposMex\EquiposMex\bin\Newtonsoft.Json.dll
+C:\Users\Mike\Desktop\EquiposMex\EquiposMex\bin\System.Net.Http.Formatting.dll
+C:\Users\Mike\Desktop\EquiposMex\EquiposMex\bin\System.Spatial.dll
+C:\Users\Mike\Desktop\EquiposMex\EquiposMex\bin\System.Web.Helpers.dll
+C:\Users\Mike\Desktop\EquiposMex\EquiposMex\bin\System.Web.Http.dll
+C:\Users\Mike\Desktop\EquiposMex\EquiposMex\bin\System.Web.Http.OData.dll
+C:\Users\Mike\Desktop\EquiposMex\EquiposMex\bin\System.Web.Http.WebHost.dll
+C:\Users\Mike\Desktop\EquiposMex\EquiposMex\bin\System.Web.Mvc.dll
+C:\Users\Mike\Desktop\EquiposMex\EquiposMex\bin\System.Web.Optimization.dll
+C:\Users\Mike\Desktop\EquiposMex\EquiposMex\bin\System.Web.Razor.dll
+C:\Users\Mike\Desktop\EquiposMex\EquiposMex\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mike\Desktop\EquiposMex\EquiposMex\bin\System.Web.WebPages.dll
+C:\Users\Mike\Desktop\EquiposMex\EquiposMex\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mike\Desktop\EquiposMex\EquiposMex\bin\WebGrease.dll
+C:\Users\Mike\Desktop\EquiposMex\EquiposMex\bin\WebMatrix.Data.dll
+C:\Users\Mike\Desktop\EquiposMex\EquiposMex\bin\WebMatrix.WebData.dll
+C:\Users\Mike\Desktop\EquiposMex\EquiposMex\bin\EntityFramework.xml
+C:\Users\Mike\Desktop\EquiposMex\EquiposMex\bin\Newtonsoft.Json.xml
+C:\Users\Mike\Desktop\EquiposMex\EquiposMex\bin\System.Net.Http.Formatting.xml
+C:\Users\Mike\Desktop\EquiposMex\EquiposMex\bin\System.Web.Helpers.xml
+C:\Users\Mike\Desktop\EquiposMex\EquiposMex\bin\System.Web.Http.xml
+C:\Users\Mike\Desktop\EquiposMex\EquiposMex\bin\System.Web.Http.WebHost.xml
+C:\Users\Mike\Desktop\EquiposMex\EquiposMex\bin\System.Web.Mvc.xml
+C:\Users\Mike\Desktop\EquiposMex\EquiposMex\bin\System.Web.Razor.xml
+C:\Users\Mike\Desktop\EquiposMex\EquiposMex\bin\System.Web.WebPages.xml
+C:\Users\Mike\Desktop\EquiposMex\EquiposMex\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mike\Desktop\EquiposMex\EquiposMex\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mike\Desktop\EquiposMex\EquiposMex\bin\WebMatrix.Data.xml
+C:\Users\Mike\Desktop\EquiposMex\EquiposMex\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Mike\Desktop\EquiposMex\EquiposMex\bin\WebMatrix.WebData.xml
+C:\Users\Mike\Desktop\EquiposMex\EquiposMex\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Mike\Desktop\EquiposMex\EquiposMex\bin\DotNetOpenAuth.Core.xml
+C:\Users\Mike\Desktop\EquiposMex\EquiposMex\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Mike\Desktop\EquiposMex\EquiposMex\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Mike\Desktop\EquiposMex\EquiposMex\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Mike\Desktop\EquiposMex\EquiposMex\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Mike\Desktop\EquiposMex\EquiposMex\bin\System.Web.Http.OData.xml
+C:\Users\Mike\Desktop\EquiposMex\EquiposMex\bin\Microsoft.Data.Edm.xml
+C:\Users\Mike\Desktop\EquiposMex\EquiposMex\bin\Microsoft.Data.OData.xml
+C:\Users\Mike\Desktop\EquiposMex\EquiposMex\bin\System.Spatial.xml
+C:\Users\Mike\Desktop\EquiposMex\EquiposMex\bin\es\EntityFramework.resources.dll
+C:\Users\Mike\Desktop\EquiposMex\EquiposMex\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Mike\Desktop\EquiposMex\EquiposMex\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Mike\Desktop\EquiposMex\EquiposMex\bin\es\System.Web.Http.resources.dll
+C:\Users\Mike\Desktop\EquiposMex\EquiposMex\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Mike\Desktop\EquiposMex\EquiposMex\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Mike\Desktop\EquiposMex\EquiposMex\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Mike\Desktop\EquiposMex\EquiposMex\bin\es\System.Web.Razor.resources.dll
+C:\Users\Mike\Desktop\EquiposMex\EquiposMex\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Mike\Desktop\EquiposMex\EquiposMex\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Mike\Desktop\EquiposMex\EquiposMex\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Mike\Desktop\EquiposMex\EquiposMex\bin\es\WebMatrix.Data.resources.dll
+C:\Users\Mike\Desktop\EquiposMex\EquiposMex\bin\es\Microsoft.Web.WebPages.OAuth.resources.dll
+C:\Users\Mike\Desktop\EquiposMex\EquiposMex\bin\es\WebMatrix.WebData.resources.dll
+C:\Users\Mike\Desktop\EquiposMex\EquiposMex\bin\es\System.Web.Http.OData.resources.dll
+C:\Users\Mike\Desktop\EquiposMex\EquiposMex\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Mike\Desktop\EquiposMex\EquiposMex\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Mike\Desktop\EquiposMex\EquiposMex\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Mike\Desktop\EquiposMex\EquiposMex\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Mike\Desktop\EquiposMex\EquiposMex\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Mike\Desktop\EquiposMex\EquiposMex\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Mike\Desktop\EquiposMex\EquiposMex\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Mike\Desktop\EquiposMex\EquiposMex\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Mike\Desktop\EquiposMex\EquiposMex\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Mike\Desktop\EquiposMex\EquiposMex\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Mike\Desktop\EquiposMex\EquiposMex\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Mike\Desktop\EquiposMex\EquiposMex\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Mike\Desktop\EquiposMex\EquiposMex\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Mike\Desktop\EquiposMex\EquiposMex\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Mike\Desktop\EquiposMex\EquiposMex\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Mike\Desktop\EquiposMex\EquiposMex\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Mike\Desktop\EquiposMex\EquiposMex\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Mike\Desktop\EquiposMex\EquiposMex\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Mike\Desktop\EquiposMex\EquiposMex\bin\de\System.Spatial.resources.dll
+C:\Users\Mike\Desktop\EquiposMex\EquiposMex\bin\es\System.Spatial.resources.dll
+C:\Users\Mike\Desktop\EquiposMex\EquiposMex\bin\fr\System.Spatial.resources.dll
+C:\Users\Mike\Desktop\EquiposMex\EquiposMex\bin\it\System.Spatial.resources.dll
+C:\Users\Mike\Desktop\EquiposMex\EquiposMex\bin\ja\System.Spatial.resources.dll
+C:\Users\Mike\Desktop\EquiposMex\EquiposMex\bin\ko\System.Spatial.resources.dll
+C:\Users\Mike\Desktop\EquiposMex\EquiposMex\bin\ru\System.Spatial.resources.dll
+C:\Users\Mike\Desktop\EquiposMex\EquiposMex\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Mike\Desktop\EquiposMex\EquiposMex\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Mike\Desktop\EquiposMex\EquiposMex\obj\Debug\EquiposMex.csprojResolveAssemblyReference.cache
+C:\Users\Mike\Desktop\EquiposMex\EquiposMex\obj\Debug\EquiposMex.dll
+C:\Users\Mike\Desktop\EquiposMex\EquiposMex\obj\Debug\EquiposMex.pdb
+C:\Users\Mike\Documents\UT TSU TIC XD\UT TSU TIC-42\Admon. de base de datos\Ejercicios y Practicas\MVC4_EquiposMex\EquiposMex\bin\EquiposMex.dll.config
+C:\Users\Mike\Documents\UT TSU TIC XD\UT TSU TIC-42\Admon. de base de datos\Ejercicios y Practicas\MVC4_EquiposMex\EquiposMex\bin\EquiposMex.dll
+C:\Users\Mike\Documents\UT TSU TIC XD\UT TSU TIC-42\Admon. de base de datos\Ejercicios y Practicas\MVC4_EquiposMex\EquiposMex\bin\EquiposMex.pdb
+C:\Users\Mike\Documents\UT TSU TIC XD\UT TSU TIC-42\Admon. de base de datos\Ejercicios y Practicas\MVC4_EquiposMex\EquiposMex\bin\Antlr3.Runtime.dll
+C:\Users\Mike\Documents\UT TSU TIC XD\UT TSU TIC-42\Admon. de base de datos\Ejercicios y Practicas\MVC4_EquiposMex\EquiposMex\bin\DotNetOpenAuth.AspNet.dll
+C:\Users\Mike\Documents\UT TSU TIC XD\UT TSU TIC-42\Admon. de base de datos\Ejercicios y Practicas\MVC4_EquiposMex\EquiposMex\bin\DotNetOpenAuth.Core.dll
+C:\Users\Mike\Documents\UT TSU TIC XD\UT TSU TIC-42\Admon. de base de datos\Ejercicios y Practicas\MVC4_EquiposMex\EquiposMex\bin\DotNetOpenAuth.OAuth.Consumer.dll
+C:\Users\Mike\Documents\UT TSU TIC XD\UT TSU TIC-42\Admon. de base de datos\Ejercicios y Practicas\MVC4_EquiposMex\EquiposMex\bin\DotNetOpenAuth.OAuth.dll
+C:\Users\Mike\Documents\UT TSU TIC XD\UT TSU TIC-42\Admon. de base de datos\Ejercicios y Practicas\MVC4_EquiposMex\EquiposMex\bin\DotNetOpenAuth.OpenId.dll
+C:\Users\Mike\Documents\UT TSU TIC XD\UT TSU TIC-42\Admon. de base de datos\Ejercicios y Practicas\MVC4_EquiposMex\EquiposMex\bin\DotNetOpenAuth.OpenId.RelyingParty.dll
+C:\Users\Mike\Documents\UT TSU TIC XD\UT TSU TIC-42\Admon. de base de datos\Ejercicios y Practicas\MVC4_EquiposMex\EquiposMex\bin\EntityFramework.dll
+C:\Users\Mike\Documents\UT TSU TIC XD\UT TSU TIC-42\Admon. de base de datos\Ejercicios y Practicas\MVC4_EquiposMex\EquiposMex\bin\Microsoft.Data.Edm.dll
+C:\Users\Mike\Documents\UT TSU TIC XD\UT TSU TIC-42\Admon. de base de datos\Ejercicios y Practicas\MVC4_EquiposMex\EquiposMex\bin\Microsoft.Data.OData.dll
+C:\Users\Mike\Documents\UT TSU TIC XD\UT TSU TIC-42\Admon. de base de datos\Ejercicios y Practicas\MVC4_EquiposMex\EquiposMex\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Mike\Documents\UT TSU TIC XD\UT TSU TIC-42\Admon. de base de datos\Ejercicios y Practicas\MVC4_EquiposMex\EquiposMex\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Users\Mike\Documents\UT TSU TIC XD\UT TSU TIC-42\Admon. de base de datos\Ejercicios y Practicas\MVC4_EquiposMex\EquiposMex\bin\Microsoft.Web.WebPages.OAuth.dll
+C:\Users\Mike\Documents\UT TSU TIC XD\UT TSU TIC-42\Admon. de base de datos\Ejercicios y Practicas\MVC4_EquiposMex\EquiposMex\bin\Newtonsoft.Json.dll
+C:\Users\Mike\Documents\UT TSU TIC XD\UT TSU TIC-42\Admon. de base de datos\Ejercicios y Practicas\MVC4_EquiposMex\EquiposMex\bin\System.Net.Http.Formatting.dll
+C:\Users\Mike\Documents\UT TSU TIC XD\UT TSU TIC-42\Admon. de base de datos\Ejercicios y Practicas\MVC4_EquiposMex\EquiposMex\bin\System.Spatial.dll
+C:\Users\Mike\Documents\UT TSU TIC XD\UT TSU TIC-42\Admon. de base de datos\Ejercicios y Practicas\MVC4_EquiposMex\EquiposMex\bin\System.Web.Helpers.dll
+C:\Users\Mike\Documents\UT TSU TIC XD\UT TSU TIC-42\Admon. de base de datos\Ejercicios y Practicas\MVC4_EquiposMex\EquiposMex\bin\System.Web.Http.dll
+C:\Users\Mike\Documents\UT TSU TIC XD\UT TSU TIC-42\Admon. de base de datos\Ejercicios y Practicas\MVC4_EquiposMex\EquiposMex\bin\System.Web.Http.OData.dll
+C:\Users\Mike\Documents\UT TSU TIC XD\UT TSU TIC-42\Admon. de base de datos\Ejercicios y Practicas\MVC4_EquiposMex\EquiposMex\bin\System.Web.Http.WebHost.dll
+C:\Users\Mike\Documents\UT TSU TIC XD\UT TSU TIC-42\Admon. de base de datos\Ejercicios y Practicas\MVC4_EquiposMex\EquiposMex\bin\System.Web.Mvc.dll
+C:\Users\Mike\Documents\UT TSU TIC XD\UT TSU TIC-42\Admon. de base de datos\Ejercicios y Practicas\MVC4_EquiposMex\EquiposMex\bin\System.Web.Optimization.dll
+C:\Users\Mike\Documents\UT TSU TIC XD\UT TSU TIC-42\Admon. de base de datos\Ejercicios y Practicas\MVC4_EquiposMex\EquiposMex\bin\System.Web.Razor.dll
+C:\Users\Mike\Documents\UT TSU TIC XD\UT TSU TIC-42\Admon. de base de datos\Ejercicios y Practicas\MVC4_EquiposMex\EquiposMex\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Mike\Documents\UT TSU TIC XD\UT TSU TIC-42\Admon. de base de datos\Ejercicios y Practicas\MVC4_EquiposMex\EquiposMex\bin\System.Web.WebPages.dll
+C:\Users\Mike\Documents\UT TSU TIC XD\UT TSU TIC-42\Admon. de base de datos\Ejercicios y Practicas\MVC4_EquiposMex\EquiposMex\bin\System.Web.WebPages.Razor.dll
+C:\Users\Mike\Documents\UT TSU TIC XD\UT TSU TIC-42\Admon. de base de datos\Ejercicios y Practicas\MVC4_EquiposMex\EquiposMex\bin\WebGrease.dll
+C:\Users\Mike\Documents\UT TSU TIC XD\UT TSU TIC-42\Admon. de base de datos\Ejercicios y Practicas\MVC4_EquiposMex\EquiposMex\bin\WebMatrix.Data.dll
+C:\Users\Mike\Documents\UT TSU TIC XD\UT TSU TIC-42\Admon. de base de datos\Ejercicios y Practicas\MVC4_EquiposMex\EquiposMex\bin\WebMatrix.WebData.dll
+C:\Users\Mike\Documents\UT TSU TIC XD\UT TSU TIC-42\Admon. de base de datos\Ejercicios y Practicas\MVC4_EquiposMex\EquiposMex\bin\EntityFramework.xml
+C:\Users\Mike\Documents\UT TSU TIC XD\UT TSU TIC-42\Admon. de base de datos\Ejercicios y Practicas\MVC4_EquiposMex\EquiposMex\bin\Newtonsoft.Json.xml
+C:\Users\Mike\Documents\UT TSU TIC XD\UT TSU TIC-42\Admon. de base de datos\Ejercicios y Practicas\MVC4_EquiposMex\EquiposMex\bin\System.Net.Http.Formatting.xml
+C:\Users\Mike\Documents\UT TSU TIC XD\UT TSU TIC-42\Admon. de base de datos\Ejercicios y Practicas\MVC4_EquiposMex\EquiposMex\bin\System.Web.Helpers.xml
+C:\Users\Mike\Documents\UT TSU TIC XD\UT TSU TIC-42\Admon. de base de datos\Ejercicios y Practicas\MVC4_EquiposMex\EquiposMex\bin\System.Web.Http.xml
+C:\Users\Mike\Documents\UT TSU TIC XD\UT TSU TIC-42\Admon. de base de datos\Ejercicios y Practicas\MVC4_EquiposMex\EquiposMex\bin\System.Web.Http.WebHost.xml
+C:\Users\Mike\Documents\UT TSU TIC XD\UT TSU TIC-42\Admon. de base de datos\Ejercicios y Practicas\MVC4_EquiposMex\EquiposMex\bin\System.Web.Mvc.xml
+C:\Users\Mike\Documents\UT TSU TIC XD\UT TSU TIC-42\Admon. de base de datos\Ejercicios y Practicas\MVC4_EquiposMex\EquiposMex\bin\System.Web.Razor.xml
+C:\Users\Mike\Documents\UT TSU TIC XD\UT TSU TIC-42\Admon. de base de datos\Ejercicios y Practicas\MVC4_EquiposMex\EquiposMex\bin\System.Web.WebPages.xml
+C:\Users\Mike\Documents\UT TSU TIC XD\UT TSU TIC-42\Admon. de base de datos\Ejercicios y Practicas\MVC4_EquiposMex\EquiposMex\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Mike\Documents\UT TSU TIC XD\UT TSU TIC-42\Admon. de base de datos\Ejercicios y Practicas\MVC4_EquiposMex\EquiposMex\bin\System.Web.WebPages.Razor.xml
+C:\Users\Mike\Documents\UT TSU TIC XD\UT TSU TIC-42\Admon. de base de datos\Ejercicios y Practicas\MVC4_EquiposMex\EquiposMex\bin\WebMatrix.Data.xml
+C:\Users\Mike\Documents\UT TSU TIC XD\UT TSU TIC-42\Admon. de base de datos\Ejercicios y Practicas\MVC4_EquiposMex\EquiposMex\bin\Microsoft.Web.WebPages.OAuth.xml
+C:\Users\Mike\Documents\UT TSU TIC XD\UT TSU TIC-42\Admon. de base de datos\Ejercicios y Practicas\MVC4_EquiposMex\EquiposMex\bin\WebMatrix.WebData.xml
+C:\Users\Mike\Documents\UT TSU TIC XD\UT TSU TIC-42\Admon. de base de datos\Ejercicios y Practicas\MVC4_EquiposMex\EquiposMex\bin\DotNetOpenAuth.AspNet.xml
+C:\Users\Mike\Documents\UT TSU TIC XD\UT TSU TIC-42\Admon. de base de datos\Ejercicios y Practicas\MVC4_EquiposMex\EquiposMex\bin\DotNetOpenAuth.Core.xml
+C:\Users\Mike\Documents\UT TSU TIC XD\UT TSU TIC-42\Admon. de base de datos\Ejercicios y Practicas\MVC4_EquiposMex\EquiposMex\bin\DotNetOpenAuth.OAuth.Consumer.xml
+C:\Users\Mike\Documents\UT TSU TIC XD\UT TSU TIC-42\Admon. de base de datos\Ejercicios y Practicas\MVC4_EquiposMex\EquiposMex\bin\DotNetOpenAuth.OAuth.xml
+C:\Users\Mike\Documents\UT TSU TIC XD\UT TSU TIC-42\Admon. de base de datos\Ejercicios y Practicas\MVC4_EquiposMex\EquiposMex\bin\DotNetOpenAuth.OpenId.xml
+C:\Users\Mike\Documents\UT TSU TIC XD\UT TSU TIC-42\Admon. de base de datos\Ejercicios y Practicas\MVC4_EquiposMex\EquiposMex\bin\DotNetOpenAuth.OpenId.RelyingParty.xml
+C:\Users\Mike\Documents\UT TSU TIC XD\UT TSU TIC-42\Admon. de base de datos\Ejercicios y Practicas\MVC4_EquiposMex\EquiposMex\bin\System.Web.Http.OData.xml
+C:\Users\Mike\Documents\UT TSU TIC XD\UT TSU TIC-42\Admon. de base de datos\Ejercicios y Practicas\MVC4_EquiposMex\EquiposMex\bin\Microsoft.Data.Edm.xml
+C:\Users\Mike\Documents\UT TSU TIC XD\UT TSU TIC-42\Admon. de base de datos\Ejercicios y Practicas\MVC4_EquiposMex\EquiposMex\bin\Microsoft.Data.OData.xml
+C:\Users\Mike\Documents\UT TSU TIC XD\UT TSU TIC-42\Admon. de base de datos\Ejercicios y Practicas\MVC4_EquiposMex\EquiposMex\bin\System.Spatial.xml
+C:\Users\Mike\Documents\UT TSU TIC XD\UT TSU TIC-42\Admon. de base de datos\Ejercicios y Practicas\MVC4_EquiposMex\EquiposMex\bin\es\EntityFramework.resources.dll
+C:\Users\Mike\Documents\UT TSU TIC XD\UT TSU TIC-42\Admon. de base de datos\Ejercicios y Practicas\MVC4_EquiposMex\EquiposMex\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\Mike\Documents\UT TSU TIC XD\UT TSU TIC-42\Admon. de base de datos\Ejercicios y Practicas\MVC4_EquiposMex\EquiposMex\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Mike\Documents\UT TSU TIC XD\UT TSU TIC-42\Admon. de base de datos\Ejercicios y Practicas\MVC4_EquiposMex\EquiposMex\bin\es\System.Web.Http.resources.dll
+C:\Users\Mike\Documents\UT TSU TIC XD\UT TSU TIC-42\Admon. de base de datos\Ejercicios y Practicas\MVC4_EquiposMex\EquiposMex\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\Mike\Documents\UT TSU TIC XD\UT TSU TIC-42\Admon. de base de datos\Ejercicios y Practicas\MVC4_EquiposMex\EquiposMex\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Mike\Documents\UT TSU TIC XD\UT TSU TIC-42\Admon. de base de datos\Ejercicios y Practicas\MVC4_EquiposMex\EquiposMex\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Mike\Documents\UT TSU TIC XD\UT TSU TIC-42\Admon. de base de datos\Ejercicios y Practicas\MVC4_EquiposMex\EquiposMex\bin\es\System.Web.Razor.resources.dll
+C:\Users\Mike\Documents\UT TSU TIC XD\UT TSU TIC-42\Admon. de base de datos\Ejercicios y Practicas\MVC4_EquiposMex\EquiposMex\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Mike\Documents\UT TSU TIC XD\UT TSU TIC-42\Admon. de base de datos\Ejercicios y Practicas\MVC4_EquiposMex\EquiposMex\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Mike\Documents\UT TSU TIC XD\UT TSU TIC-42\Admon. de base de datos\Ejercicios y Practicas\MVC4_EquiposMex\EquiposMex\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Mike\Documents\UT TSU TIC XD\UT TSU TIC-42\Admon. de base de datos\Ejercicios y Practicas\MVC4_EquiposMex\EquiposMex\bin\es\WebMatrix.Data.resources.dll
+C:\Users\Mike\Documents\UT TSU TIC XD\UT TSU TIC-42\Admon. de base de datos\Ejercicios y Practicas\MVC4_EquiposMex\EquiposMex\bin\es\Microsoft.Web.WebPages.OAuth.resources.dll
+C:\Users\Mike\Documents\UT TSU TIC XD\UT TSU TIC-42\Admon. de base de datos\Ejercicios y Practicas\MVC4_EquiposMex\EquiposMex\bin\es\WebMatrix.WebData.resources.dll
+C:\Users\Mike\Documents\UT TSU TIC XD\UT TSU TIC-42\Admon. de base de datos\Ejercicios y Practicas\MVC4_EquiposMex\EquiposMex\bin\es\System.Web.Http.OData.resources.dll
+C:\Users\Mike\Documents\UT TSU TIC XD\UT TSU TIC-42\Admon. de base de datos\Ejercicios y Practicas\MVC4_EquiposMex\EquiposMex\bin\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Mike\Documents\UT TSU TIC XD\UT TSU TIC-42\Admon. de base de datos\Ejercicios y Practicas\MVC4_EquiposMex\EquiposMex\bin\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Mike\Documents\UT TSU TIC XD\UT TSU TIC-42\Admon. de base de datos\Ejercicios y Practicas\MVC4_EquiposMex\EquiposMex\bin\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Mike\Documents\UT TSU TIC XD\UT TSU TIC-42\Admon. de base de datos\Ejercicios y Practicas\MVC4_EquiposMex\EquiposMex\bin\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Mike\Documents\UT TSU TIC XD\UT TSU TIC-42\Admon. de base de datos\Ejercicios y Practicas\MVC4_EquiposMex\EquiposMex\bin\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Mike\Documents\UT TSU TIC XD\UT TSU TIC-42\Admon. de base de datos\Ejercicios y Practicas\MVC4_EquiposMex\EquiposMex\bin\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Mike\Documents\UT TSU TIC XD\UT TSU TIC-42\Admon. de base de datos\Ejercicios y Practicas\MVC4_EquiposMex\EquiposMex\bin\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Mike\Documents\UT TSU TIC XD\UT TSU TIC-42\Admon. de base de datos\Ejercicios y Practicas\MVC4_EquiposMex\EquiposMex\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Mike\Documents\UT TSU TIC XD\UT TSU TIC-42\Admon. de base de datos\Ejercicios y Practicas\MVC4_EquiposMex\EquiposMex\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Mike\Documents\UT TSU TIC XD\UT TSU TIC-42\Admon. de base de datos\Ejercicios y Practicas\MVC4_EquiposMex\EquiposMex\bin\de\Microsoft.Data.OData.resources.dll
+C:\Users\Mike\Documents\UT TSU TIC XD\UT TSU TIC-42\Admon. de base de datos\Ejercicios y Practicas\MVC4_EquiposMex\EquiposMex\bin\es\Microsoft.Data.OData.resources.dll
+C:\Users\Mike\Documents\UT TSU TIC XD\UT TSU TIC-42\Admon. de base de datos\Ejercicios y Practicas\MVC4_EquiposMex\EquiposMex\bin\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Mike\Documents\UT TSU TIC XD\UT TSU TIC-42\Admon. de base de datos\Ejercicios y Practicas\MVC4_EquiposMex\EquiposMex\bin\it\Microsoft.Data.OData.resources.dll
+C:\Users\Mike\Documents\UT TSU TIC XD\UT TSU TIC-42\Admon. de base de datos\Ejercicios y Practicas\MVC4_EquiposMex\EquiposMex\bin\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Mike\Documents\UT TSU TIC XD\UT TSU TIC-42\Admon. de base de datos\Ejercicios y Practicas\MVC4_EquiposMex\EquiposMex\bin\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Mike\Documents\UT TSU TIC XD\UT TSU TIC-42\Admon. de base de datos\Ejercicios y Practicas\MVC4_EquiposMex\EquiposMex\bin\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Mike\Documents\UT TSU TIC XD\UT TSU TIC-42\Admon. de base de datos\Ejercicios y Practicas\MVC4_EquiposMex\EquiposMex\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Mike\Documents\UT TSU TIC XD\UT TSU TIC-42\Admon. de base de datos\Ejercicios y Practicas\MVC4_EquiposMex\EquiposMex\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Mike\Documents\UT TSU TIC XD\UT TSU TIC-42\Admon. de base de datos\Ejercicios y Practicas\MVC4_EquiposMex\EquiposMex\bin\de\System.Spatial.resources.dll
+C:\Users\Mike\Documents\UT TSU TIC XD\UT TSU TIC-42\Admon. de base de datos\Ejercicios y Practicas\MVC4_EquiposMex\EquiposMex\bin\es\System.Spatial.resources.dll
+C:\Users\Mike\Documents\UT TSU TIC XD\UT TSU TIC-42\Admon. de base de datos\Ejercicios y Practicas\MVC4_EquiposMex\EquiposMex\bin\fr\System.Spatial.resources.dll
+C:\Users\Mike\Documents\UT TSU TIC XD\UT TSU TIC-42\Admon. de base de datos\Ejercicios y Practicas\MVC4_EquiposMex\EquiposMex\bin\it\System.Spatial.resources.dll
+C:\Users\Mike\Documents\UT TSU TIC XD\UT TSU TIC-42\Admon. de base de datos\Ejercicios y Practicas\MVC4_EquiposMex\EquiposMex\bin\ja\System.Spatial.resources.dll
+C:\Users\Mike\Documents\UT TSU TIC XD\UT TSU TIC-42\Admon. de base de datos\Ejercicios y Practicas\MVC4_EquiposMex\EquiposMex\bin\ko\System.Spatial.resources.dll
+C:\Users\Mike\Documents\UT TSU TIC XD\UT TSU TIC-42\Admon. de base de datos\Ejercicios y Practicas\MVC4_EquiposMex\EquiposMex\bin\ru\System.Spatial.resources.dll
+C:\Users\Mike\Documents\UT TSU TIC XD\UT TSU TIC-42\Admon. de base de datos\Ejercicios y Practicas\MVC4_EquiposMex\EquiposMex\bin\zh-Hans\System.Spatial.resources.dll
+C:\Users\Mike\Documents\UT TSU TIC XD\UT TSU TIC-42\Admon. de base de datos\Ejercicios y Practicas\MVC4_EquiposMex\EquiposMex\bin\zh-Hant\System.Spatial.resources.dll
+C:\Users\Mike\Documents\UT TSU TIC XD\UT TSU TIC-42\Admon. de base de datos\Ejercicios y Practicas\MVC4_EquiposMex\EquiposMex\obj\Debug\EquiposMex.csprojResolveAssemblyReference.cache
+C:\Users\Mike\Documents\UT TSU TIC XD\UT TSU TIC-42\Admon. de base de datos\Ejercicios y Practicas\MVC4_EquiposMex\EquiposMex\obj\Debug\EquiposMex.dll
+C:\Users\Mike\Documents\UT TSU TIC XD\UT TSU TIC-42\Admon. de base de datos\Ejercicios y Practicas\MVC4_EquiposMex\EquiposMex\obj\Debug\EquiposMex.pdb

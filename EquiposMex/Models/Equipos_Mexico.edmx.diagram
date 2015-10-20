@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="54ab1cbb7e744fedb1ef64ad67ee9f5f" Name="Diagram1">
+        <EntityTypeShape EntityType="Equipos_MexicoModel.DIRECTOR" Width="1.5" PointX="3" PointY="3.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Equipos_MexicoModel.EQUIPO" Width="1.5" PointX="0.75" PointY="3.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="Equipos_MexicoModel.JUGADOR" Width="1.5" PointX="6" PointY="3.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="Equipos_MexicoModel.PADRE" Width="1.5" PointX="3.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="Equipos_MexicoModel.sysdiagrams" Width="1.5" PointX="0.75" PointY="6.75" IsExpanded="true" />
+        <AssociationConnector Association="Equipos_MexicoModel.FK_DIRECTOR_ASIGANDO_EQUIPO" ManuallyRouted="false" />
+        <AssociationConnector Association="Equipos_MexicoModel.FK_JUGADOR_TIENE_EQUIPO" ManuallyRouted="false" />
+        <AssociationConnector Association="Equipos_MexicoModel.FK_JUGADOR_RELACION_PADRE" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

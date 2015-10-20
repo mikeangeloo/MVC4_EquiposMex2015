@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Equipos_MexicoModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2008" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="DIRECTOR">
+    <Key>
+      <PropertyRef Name="ID_DIRECTOR" />
+    </Key>
+    <Property Name="ID_DIRECTOR" Type="int" Nullable="false" />
+    <Property Name="ID_EQUIPO" Type="int" />
+    <Property Name="NOMBREDIRECTOR" Type="varchar" MaxLength="25" />
+    <Property Name="APELLIDOSDIRECTOR" Type="varchar" MaxLength="255" />
+    <Property Name="TELEFONODIRECTOR" Type="varchar" MaxLength="15" />
+  </EntityType>
+  <EntityType Name="EQUIPO">
+    <Key>
+      <PropertyRef Name="ID_EQUIPO" />
+    </Key>
+    <Property Name="ID_EQUIPO" Type="int" Nullable="false" />
+    <Property Name="NOMBREEQUIPO" Type="varchar" MaxLength="30" />
+    <Property Name="COLOR" Type="varchar" MaxLength="30" />
+  </EntityType>
+  <EntityType Name="JUGADOR">
+    <Key>
+      <PropertyRef Name="ID_JUGADOR" />
+    </Key>
+    <Property Name="ID_JUGADOR" Type="int" Nullable="false" />
+    <Property Name="ID_PADRE" Type="int" />
+    <Property Name="ID_EQUIPO" Type="int" />
+    <Property Name="NOMBREJUGADOR" Type="varchar" MaxLength="25" />
+    <Property Name="APELLIDOSJUGADOR" Type="varchar" MaxLength="255" />
+    <Property Name="EDAD" Type="int" />
+  </EntityType>
+  <EntityType Name="PADRE">
+    <Key>
+      <PropertyRef Name="ID_PADRE" />
+    </Key>
+    <Property Name="ID_PADRE" Type="int" Nullable="false" />
+    <Property Name="APELLIDOSPADRE" Type="varchar" MaxLength="255" />
+    <Property Name="NOMBREPADRE" Type="varchar" MaxLength="25" />
+    <Property Name="DIRECCION" Type="varchar" MaxLength="255" />
+    <Property Name="TELEFONOPADRE" Type="varchar" MaxLength="15" />
+  </EntityType>
+  <EntityType Name="sysdiagrams">
+    <Key>
+      <PropertyRef Name="diagram_id" />
+    </Key>
+    <Property Name="name" Type="nvarchar" MaxLength="128" Nullable="false" />
+    <Property Name="principal_id" Type="int" Nullable="false" />
+    <Property Name="diagram_id" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="version" Type="int" />
+    <Property Name="definition" Type="varbinary(max)" />
+  </EntityType>
+  <Association Name="FK_DIRECTOR_ASIGANDO_EQUIPO">
+    <End Role="EQUIPO" Type="Self.EQUIPO" Multiplicity="0..1" />
+    <End Role="DIRECTOR" Type="Self.DIRECTOR" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="EQUIPO">
+        <PropertyRef Name="ID_EQUIPO" />
+      </Principal>
+      <Dependent Role="DIRECTOR">
+        <PropertyRef Name="ID_EQUIPO" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_JUGADOR_RELACION_PADRE">
+    <End Role="PADRE" Type="Self.PADRE" Multiplicity="0..1" />
+    <End Role="JUGADOR" Type="Self.JUGADOR" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="PADRE">
+        <PropertyRef Name="ID_PADRE" />
+      </Principal>
+      <Dependent Role="JUGADOR">
+        <PropertyRef Name="ID_PADRE" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_JUGADOR_TIENE_EQUIPO">
+    <End Role="EQUIPO" Type="Self.EQUIPO" Multiplicity="0..1" />
+    <End Role="JUGADOR" Type="Self.JUGADOR" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="EQUIPO">
+        <PropertyRef Name="ID_EQUIPO" />
+      </Principal>
+      <Dependent Role="JUGADOR">
+        <PropertyRef Name="ID_EQUIPO" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="Equipos_MexicoModelStoreContainer">
+    <EntitySet Name="DIRECTOR" EntityType="Self.DIRECTOR" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="EQUIPO" EntityType="Self.EQUIPO" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="JUGADOR" EntityType="Self.JUGADOR" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="PADRE" EntityType="Self.PADRE" Schema="dbo" store:Type="Tables" />
+    <EntitySet Name="sysdiagrams" EntityType="Self.sysdiagrams" Schema="dbo" store:Type="Tables" />
+    <AssociationSet Name="FK_DIRECTOR_ASIGANDO_EQUIPO" Association="Self.FK_DIRECTOR_ASIGANDO_EQUIPO">
+      <End Role="EQUIPO" EntitySet="EQUIPO" />
+      <End Role="DIRECTOR" EntitySet="DIRECTOR" />
+    </AssociationSet>
+    <AssociationSet Name="FK_JUGADOR_RELACION_PADRE" Association="Self.FK_JUGADOR_RELACION_PADRE">
+      <End Role="PADRE" EntitySet="PADRE" />
+      <End Role="JUGADOR" EntitySet="JUGADOR" />
+    </AssociationSet>
+    <AssociationSet Name="FK_JUGADOR_TIENE_EQUIPO" Association="Self.FK_JUGADOR_TIENE_EQUIPO">
+      <End Role="EQUIPO" EntitySet="EQUIPO" />
+      <End Role="JUGADOR" EntitySet="JUGADOR" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
